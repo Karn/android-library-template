@@ -1,0 +1,9 @@
+
+# $android-library-name$
+ANDROID_LIBRARY_NAME = ""
+# $username$
+USERNAME = ""
+# $repo$
+REPO = ""
+# $PACKAGE$
+PACKAGE = ""
